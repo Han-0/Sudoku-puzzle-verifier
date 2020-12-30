@@ -8,8 +8,8 @@ This program is natively executable by most Unix/Linux/OS X users
 
 If creating your own executable:
 
-1. gcc hw03.c -o (name of executable file) -lpthread
+1. gcc sValidator.c -o (name of executable file) -lpthread
 2. ./(name of executable file)
 
 Else:
-  ./hw03
+  ./sValidator
