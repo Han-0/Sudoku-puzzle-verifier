@@ -7,8 +7,8 @@ Usage: SudokuPuzzle.txt is a sample input file. Users are reccomended to alter t
 Most Unix/Linux/OS X users
 If creating your own executable:
 
-1. gcc hw03.c -o <name of executable file> -lpthread
-2. ./<name of executable file>
+1. gcc hw03.c -o <<name of executable file>> -lpthread
+2. ./<<name of executable file>>
 
 Else:
   ./hw03
