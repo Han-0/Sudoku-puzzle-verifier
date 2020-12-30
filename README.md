@@ -4,7 +4,7 @@ This is accomplished by making use of multi-threading.
 
 Usage: SudokuPuzzle.txt is a sample input file. Users are reccomended to alter this file before execution or use it as reference when creating your own input file.
 
-Most Unix/Linux/OS X users
+This program is natively executable by most Unix/Linux/OS X users
 
 If creating your own executable:
 
