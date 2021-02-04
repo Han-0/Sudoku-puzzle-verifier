@@ -7,9 +7,11 @@ Usage: SudokuPuzzle.txt is a sample input file. Users are reccomended to alter t
 This program is natively executable by most Unix/Linux/OS X users
 
 If creating your own executable:
-
-1. gcc sValidator.c -o (name of executable file) -lpthread
-2. ./(name of executable file)
-
+```
+   gcc sValidator.c -o (name of executable file) -lpthread
+   ./(name of executable file)
+```
 Else:
+```
   ./sValidator
+```
